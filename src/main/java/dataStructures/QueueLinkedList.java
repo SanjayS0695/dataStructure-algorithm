@@ -1,4 +1,4 @@
-package dataStructures;
+ package dataStructures;
 
 public class QueueLinkedList {
 
